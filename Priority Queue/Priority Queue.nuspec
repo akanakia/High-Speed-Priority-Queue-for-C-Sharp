@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>OptimizedPriorityQueue</id>
+    <id>OptimizedPriorityQueueForMSAcademic</id>
     <version>4.2.0</version>
     <title>Highly Optimized Priority Queue</title>
     <authors>BlueRaja</authors>
@@ -15,28 +15,12 @@
     <tags>C# priority-queue pathfinding optimized</tags>
   </metadata>
   <files>
-    <file src="bin\Release\net20\Priority Queue.dll" target="lib\net20\PriorityQueue.dll" />
-    <file src="bin\Release\net20\Priority Queue.pdb" target="lib\net20\PriorityQueue.pdb" />
-    <file src="bin\Release\net20\Priority Queue.xml" target="lib\net20\PriorityQueue.xml" />
+    <file src="bin\Release\net20\PriorityQueue.dll" target="lib\net20\PriorityQueue.dll" />
+    <file src="bin\Release\net20\PriorityQueue.pdb" target="lib\net20\PriorityQueue.pdb" />
+    <file src="bin\Release\net20\PriorityQueue.xml" target="lib\net20\PriorityQueue.xml" />
     
-    <file src="bin\Release\net45\Priority Queue.dll" target="lib\net45\PriorityQueue.dll" />
-    <file src="bin\Release\net45\Priority Queue.pdb" target="lib\net45\PriorityQueue.pdb" />
-    <file src="bin\Release\net45\Priority Queue.xml" target="lib\net45\PriorityQueue.xml" />
-    
-    <file src="..\Priority Queue UWP\bin\Release\netcore45\Priority Queue.dll" target="lib\netstandard1.0\PriorityQueue.dll" />
-    <file src="..\Priority Queue UWP\bin\Release\netcore45\Priority Queue.pdb" target="lib\netstandard1.0\PriorityQueue.pdb" />
-    <file src="..\Priority Queue UWP\bin\Release\netcore45\Priority Queue.xml" target="lib\netstandard1.0\PriorityQueue.xml" />
-    
-    <file src="..\Priority Queue PCL\bin\Release\Priority Queue.dll" target="lib\portable-net40+sl5+win8+wpa81+wp8\PriorityQueue.dll" />
-    <file src="..\Priority Queue PCL\bin\Release\Priority Queue.pdb" target="lib\portable-net40+sl5+win8+wpa81+wp8\PriorityQueue.pdb" />
-    <file src="..\Priority Queue PCL\bin\Release\Priority Queue.xml" target="lib\portable-net40+sl5+win8+wpa81+wp8\PriorityQueue.xml" />
-    
-    <file src="..\Priority Queue Unity Full\bin\Release\Priority Queue.dll" target="lib\net35-unity full v3.5\PriorityQueue.dll" />
-    <file src="..\Priority Queue Unity Full\bin\Release\Priority Queue.pdb" target="lib\net35-unity full v3.5\PriorityQueue.pdb" />
-    <file src="..\Priority Queue Unity Full\bin\Release\Priority Queue.xml" target="lib\net35-unity full v3.5\PriorityQueue.xml" />
-    
-    <file src="..\Priority Queue Unity Subset\bin\Release\Priority Queue.dll" target="lib\net35-unity subset v3.5\PriorityQueue.dll" />
-    <file src="..\Priority Queue Unity Subset\bin\Release\Priority Queue.pdb" target="lib\net35-unity subset v3.5\PriorityQueue.pdb" />
-    <file src="..\Priority Queue Unity Subset\bin\Release\Priority Queue.xml" target="lib\net35-unity subset v3.5\PriorityQueue.xml" />
+    <file src="bin\Release\net45\PriorityQueue.dll" target="lib\net45\PriorityQueue.dll" />
+    <file src="bin\Release\net45\PriorityQueue.pdb" target="lib\net45\PriorityQueue.pdb" />
+    <file src="bin\Release\net45\PriorityQueue.xml" target="lib\net45\PriorityQueue.xml" />
   </files>
 </package>
